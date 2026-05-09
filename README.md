@@ -57,4 +57,3 @@ The platform is designed to connect with OpenAI's API to provide:
 - Similarity-based recommendations using embeddings
 
 ---
-Developed with ❤️ by Antigravity AI.

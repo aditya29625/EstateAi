@@ -14,9 +14,10 @@
     "clsx": "^2.1.1",
     "framer-motion": "^12.38.0",
     "lucide-react": "^1.14.0",
-    "next": "16.2.6",
-    "react": "19.2.4",
-    "react-dom": "19.2.4",
+    "next": "15.0.0-canary.2",
+    "react": "19.0.0-rc-f994737d14-20240522",
+    "react-dom": "19.0.0-rc-f994737d14-20240522",
+
     "recharts": "^3.8.1",
     "shadcn-ui": "^0.9.5",
     "tailwind-merge": "^3.5.0",
